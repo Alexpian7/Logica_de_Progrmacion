@@ -90,7 +90,7 @@ public class ArayList {
 }
 ´´´
 
-## Solución
+## Solución 2
 
 ´´´
 package com.mycompany.array;
