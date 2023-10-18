@@ -4,14 +4,12 @@
 ## Sesión 11 
 
 
+
+
 ´´´
 
 package com.mycompany.array;
 
-/**
- *
- * @author Anderson Alzate
- */
 public class Array {
 
     public static void main(String[] args) {
@@ -42,6 +40,8 @@ public class Array {
           }
        }
     }
+
+
 ´´´
 
 
