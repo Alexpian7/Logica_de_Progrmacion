@@ -52,14 +52,6 @@ public class Array {
 package com.mycompany.araylist;
 import java.util.Scanner;
 
-
-
-        
-
-/**
- *
- * @author Anderson Alzate
- */
 public class ArayList {
     
   
@@ -99,10 +91,7 @@ public class ArayList {
 ´´´
 package com.mycompany.array;
 import java.util.Scanner;
-/**
- *
- * @author Anderson Alzate
- */
+
 public class Array {
 
     public static void main(String[] args) {
@@ -144,6 +133,7 @@ public class Array {
       System.out.println("Decimal: " + decimal);
     }
 }
+
 ´´´
 
 
