@@ -8,12 +8,11 @@
 
 ´´´
 
-package com.mycompany.array;
+public class Duplicado {
 
-public class Array {
-
-    public static void main(String[] args) {
-          Integer [] arr = new Integer [] {1, 2, 3, 4, 2, 7, 8, 8, 3, 3, 10, 11, 15, 1, 3, 3};
+    public static void main(String[] args)throws InterruptedException {
+        
+    Integer [] arr = new Integer [] {1, 2, 3, 4, 2, 7, 8, 8, 3, 3, 10, 11, 15, 1, 3, 3};
     String repetidos = "";
     boolean imprimeComa = false; 
 
@@ -41,18 +40,19 @@ public class Array {
        }
     }
 
-
-´´´
-
-
-
+    System.out.print(repetidos.replace("*", ""));  
+    }
+}
 
 
 ´´´
-package com.mycompany.araylist;
-import java.util.Scanner;
 
-public class ArayList {
+
+
+
+
+´´´
+
     
   
 
@@ -83,16 +83,16 @@ public class ArayList {
         // Imprimimos el resultado
         System.out.println("El número binario es: " + numeroBinario);
     }
-}
+
+
 ´´´
 
 ## Solución 2
 
 ´´´
-package com.mycompany.array;
-import java.util.Scanner;
 
-public class Array {
+
+    public class Array {
 
     public static void main(String[] args) {
      long numero, aux, digito, decimal;
